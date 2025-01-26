@@ -1,0 +1,6 @@
+[1mdiff --git a/instaclone b/instaclone[m
+[1m--- a/instaclone[m
+[1m+++ b/instaclone[m
+[36m@@ -1 +1 @@[m
+[31m-Subproject commit b0b60765f96825a3dac5e9397e5fc140357cacec[m
+[32m+[m[32mSubproject commit b0b60765f96825a3dac5e9397e5fc140357cacec-dirty[m
